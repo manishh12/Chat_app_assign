@@ -25,7 +25,12 @@
   <li> Copy the url from the address bar and open another instance in another tab or in incognito or on another browser.
 </ol>
 
+# Screenshots
 
+![Screenshot1](https://github.com/manishh12/Chat_app_assign/blob/main/screenshot4.png "User login")
 
+![Screenshot2](https://github.com/manishh12/Chat_app_assign/blob/main/screenshot3.png "User inside room")
 
-![Screenshot1](https://github.com/manishh12/Chat_app_assign/blob/main/screenshot1.png "User UI")
+![Screenshot3](https://github.com/manishh12/Chat_app_assign/blob/main/screenshot2.png "another user")
+
+![Screenshot4](https://github.com/manishh12/Chat_app_assign/blob/main/screenshot1.png "User UI")
